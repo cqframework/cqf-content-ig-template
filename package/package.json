@@ -1,0 +1,13 @@
+{
+  "name": "cqf.fhir.content.template",
+  "version": "0.0.1",
+  "type": "fhir.template",
+  "license": "CC0-1.0",
+  "description": "CQF FHIR Template",
+  "author": "CQFramework",
+  "canonical": "http://github.com/cqframework/cqf-content-ig-template",
+  "base": "cqf.fhir.template",
+  "dependencies": {
+    "cqf.fhir.template": "0.0.1"
+  }
+}
